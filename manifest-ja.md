@@ -58,7 +58,7 @@ Form: **[Singular *ja*-Form] + _s_**
 
 ## 4. Personalpronomen (nur für Personen)
 
-### 3. Person Singular & Plural
+### 3. Person Singular
 
 | Fall         | Form     |
 |--------------|----------|
@@ -67,7 +67,7 @@ Form: **[Singular *ja*-Form] + _s_**
 | Dativ        | jam      |
 | Akkusativ    | ja       |
 
-*Beispiel: Ja hat jas Anliegen bereits formuliert.*
+*Beispiel: Wir haben jas Anliegen bereits formuliert. Ja hat dein Anliegen bereits formuliert.*
 
 ---
 
